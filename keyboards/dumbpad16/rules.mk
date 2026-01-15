@@ -1,0 +1,10 @@
+MCU = atmega32u4
+BOOTLOADER = caterina
+
+MATRIX_ENABLE = yes
+ENCODER_ENABLE = yes
+RGBLIGHT_ENABLE = yes
+
+VIAL_ENABLE = yes
+VIAL_INSECURE = yes
+LTO_ENABLE = yes
